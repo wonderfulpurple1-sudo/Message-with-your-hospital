@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Rumah Sakit Terpadu (AIS)",
+  "description": "Prototype Sistem Informasi Akuntansi Rumah Sakit dengan arsitektur Koordinator-SubAgen berbasis AI.",
+  "requestFramePermissions": []
+}
